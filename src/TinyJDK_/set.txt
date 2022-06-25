@@ -1,4 +1,0 @@
-package tinyJDK;
-
-public interface Set<T> extends Collection<T> {
-}
